@@ -49,3 +49,9 @@ header p {
 .btn:hover {
     background: white;
 }
+nav {
+    background-color: black;
+}
+nav h2 {
+    color: gold;
+}
