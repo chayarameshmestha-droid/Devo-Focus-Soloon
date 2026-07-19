@@ -64,3 +64,13 @@ nav {
 nav h2 {
     color: gold;
 }
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    color: gold;
+}
