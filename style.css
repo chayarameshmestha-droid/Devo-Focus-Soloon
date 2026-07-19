@@ -252,3 +252,30 @@ iframe{
 .gallery-container img:hover{
     transform:scale(1.05);
 }
+footer{
+
+    background:black;
+
+    text-align:center;
+
+    padding:30px;
+
+    color:#ddd;
+
+}
+
+
+footer h2{
+
+    color:gold;
+
+    margin-bottom:10px;
+
+}
+
+
+footer p{
+
+    margin-top:10px;
+
+}
