@@ -51,7 +51,16 @@ header p {
 }
 nav {
     background-color: black;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 20px;
 }
+
 nav h2 {
     color: gold;
 }
