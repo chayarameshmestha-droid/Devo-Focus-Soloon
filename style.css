@@ -222,3 +222,33 @@ iframe{
     border-radius:15px;
     margin-top:40px;
 }
+#gallery{
+    padding:80px 10%;
+    background:#1b1b1b;
+    text-align:center;
+}
+
+#gallery h2{
+    color:gold;
+    font-size:40px;
+    margin-bottom:40px;
+}
+
+.gallery-container{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    flex-wrap:wrap;
+}
+
+.gallery-container img{
+    width:280px;
+    height:220px;
+    object-fit:cover;
+    border-radius:15px;
+    transition:0.3s;
+}
+
+.gallery-container img:hover{
+    transform:scale(1.05);
+}
