@@ -89,6 +89,35 @@ nav h2 {
     font-weight: bold;
     transition: 0.3s;
 }
+#about{
+
+    padding:80px 15%;
+
+    background:#1b1b1b;
+
+    text-align:center;
+
+}
+
+#about h2{
+
+    color:gold;
+
+    font-size:40px;
+
+    margin-bottom:25px;
+
+}
+
+#about p{
+
+    color:#dddddd;
+
+    font-size:20px;
+
+    line-height:1.8;
+
+}
 
 .menu a:hover {
     color: gold;
