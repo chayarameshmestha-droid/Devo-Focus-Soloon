@@ -157,7 +157,36 @@ nav h2 {
 .service-card p{
     color:#ddd;
 }
+#about{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:50px;
+    padding:80px 10%;
+    background:#1b1b1b;
+    flex-wrap:wrap;
+}
 
+.about-image img{
+    width:400px;
+    border-radius:20px;
+}
+
+.about-text{
+    max-width:600px;
+}
+
+.about-text h2{
+    color:gold;
+    margin-bottom:20px;
+    font-size:40px;
+}
+
+.about-text p{
+    color:#ddd;
+    font-size:20px;
+    line-height:1.8;
+}
 .service-card:hover{
     transform:translateY(-10px);
 }
